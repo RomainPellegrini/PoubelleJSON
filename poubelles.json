@@ -1,0 +1,29 @@
+[
+{
+	    "Couleur": "Jaune",
+		"coordonneesX": 41.689420218558745,
+		"coordonneesY": -74.04454331713376
+},
+{
+    "Couleur": "Bleu",
+    "coordonneesX": 60.689420218558745,
+    "coordonneesY": -74.04454331713376
+},
+{
+    "Couleur": "Rouge",
+    "coordonneesX": 40.689420218558745,
+    "coordonneesY": 74.04454331713376
+},
+{
+    "Couleur": "Noir",
+    "coordonneesX": 40.689420218558745,
+    "coordonneesY": 64.04454331713376
+},
+{
+    "Couleur": "Bleu",
+    "coordonneesX": 40,
+    "coordonneesY": -74
+}
+
+
+]
