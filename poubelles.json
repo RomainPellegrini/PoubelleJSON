@@ -1,37 +1,37 @@
 {"data":[
 {
-    "Couleur": "Verte",
-    "Etat": "Disponible",
+    "Couleur": "Glass Trash",
+    "Etat": "Available",
     "coordonneesX": 43.6158354706615,
     "coordonneesY":  7.072903756628102
 },
 {
-	"Couleur": "Jaune",
-	"Etat": "Disponible",
+	"Couleur": "Recyclable Trash",
+	"Etat": "Available",
 	"coordonneesX":43.617012,
 	"coordonneesY":7.073879
 },
 {
-    "Couleur": "Bleue",
-    "Etat": "Disponible",
+    "Couleur": "Paper trash",
+    "Etat": "Available",
     "coordonneesX":43.615785,
     "coordonneesY":  7.072699
 },
 {
-    "Couleur": "Jaune",
-     "Etat": "Indisponible",
+    "Couleur": "Recyclable Trash",
+     "Etat": "Unavailable",
     "coordonneesX": 43.617043, 
     "coordonneesY": 7.070693
 },
 {
-    "Couleur": "Noire",
-    "Etat": "Indisponible",
+    "Couleur": "Classic Trash",
+    "Etat": "Unavailable",
     "coordonneesX": 43.618146,
     "coordonneesY":  7.074920
 },
 {
-    "Couleur": "Bleue",
-    "Etat": "Disponible",
+    "Couleur": "Paper trash",
+    "Etat": "Available",
     "coordonneesX": 43.616958,
     "coordonneesY":  7.072763
 }
