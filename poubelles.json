@@ -1,36 +1,36 @@
 {"data":[
 {
-    "Couleur": "Glass Trash",
+    "Couleur": "Glass Bin",
     "Etat": "Available",
     "coordonneesX": 43.6158354706615,
     "coordonneesY":  7.072903756628102
 },
 {
-	"Couleur": "Recyclable Trash",
+	"Couleur": "Recyclable Bin",
 	"Etat": "Available",
 	"coordonneesX":43.617012,
 	"coordonneesY":7.073879
 },
 {
-    "Couleur": "Paper trash",
+    "Couleur": "Paper Bin",
     "Etat": "Available",
     "coordonneesX":43.615785,
     "coordonneesY":  7.072699
 },
 {
-    "Couleur": "Recyclable Trash",
+    "Couleur": "Recyclable Bin",
      "Etat": "Unavailable",
     "coordonneesX": 43.617043, 
     "coordonneesY": 7.070693
 },
 {
-    "Couleur": "Classic Trash",
+    "Couleur": "Classic Bin",
     "Etat": "Unavailable",
     "coordonneesX": 43.618146,
     "coordonneesY":  7.074920
 },
 {
-    "Couleur": "Paper trash",
+    "Couleur": "Paper Bin",
     "Etat": "Available",
     "coordonneesX": 43.616958,
     "coordonneesY":  7.072763
