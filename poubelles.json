@@ -1,24 +1,24 @@
 {"data":[
 {
-    "Couleur": "Glass Bin",
+    "Couleur": "Paper Bin",
     "Etat": "Available",
     "coordonneesX": 43.6158354706615,
     "coordonneesY":  7.072903756628102
 },
 {
-	"Couleur": "Recyclable Bin",
+	"Couleur": "Plastic Bin",
 	"Etat": "Available",
 	"coordonneesX":43.617012,
 	"coordonneesY":7.073879
 },
 {
-    "Couleur": "Paper Bin",
+    "Couleur": "Green Bin",
     "Etat": "Available",
     "coordonneesX":43.615785,
     "coordonneesY":  7.072699
 },
 {
-    "Couleur": "Recyclable Bin",
+    "Couleur": "Plastic Bin",
      "Etat": "Unavailable",
     "coordonneesX": 43.617043, 
     "coordonneesY": 7.070693
